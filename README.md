@@ -8,4 +8,6 @@ Kaggle default environment
 We used 5 datasets as the training set, with only 3 files in the datasets. The links to the other two files are https://www.kaggle.com/datasets/kagglemini/train-00000-of-00001-f9daec1515e5c4b9 and https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset
 
 # Train and Test
-The operations on the training set and test set data are both in the tokenizer_data.py file. If you want to predict new data, you can modify the path of the test in the prepare_data.py file to the file path where you need to predict the data. The training and prediction of the final model are both in the train_predict.py file.
+train test code:https://www.kaggle.com/code/wcqyfly/fork-of-fork-of-fork-of-llm-daigt-analyse-e-db6333
+The processing and concatenation operations for the daigt v2 train dataset, argugpt, train-00000 of 00001-f9daec1515e5c4b9 datasets are included in this notebook: https://www.kaggle.com/wcqyfly/notebook95c85fa3c6
+
