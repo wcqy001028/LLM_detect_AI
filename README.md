@@ -5,7 +5,7 @@ In recent years, large language models (LLMs) have become increasingly sophistic
 Kaggle default environment
 
 # Datasets
-We used 5 datasets as the training set, with only 3 files in the datasets. The links to the other two files are https://www.kaggle.com/datasets/kagglemini/train-00000-of-00001-f9daec1515e5c4b9 and https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset
+We used 5 datasets as the training set, with only 3 files in the datasets. The links to the other two files are https://www.kaggle.com/datasets/kagglemini/train-00000-of-00001-f9daec1515e5c4b9 (This dataset is sourced from an open-source dataset on Huggingface: https://huggingface.co/datasets/dim/essayforum_writing_prompts_6k/tree/main/) and https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset.
 
 # Train and Test
 #### train test code:https://www.kaggle.com/code/wcqyfly/fork-of-fork-of-fork-of-llm-daigt-analyse-e-db6333
